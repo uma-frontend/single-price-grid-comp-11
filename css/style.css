@@ -28,4 +28,41 @@
 /*Body*/
 body{
    font-family: "Karla", sans-serif;
+   font-size: 16px;
+   font-weight: normal;
+   line-height: 1.5;
+   background-color: e6eff6;
+   color: #fff;
+   margin: 0;
+}
+
+.container {
+}
+.card {
+}
+.card__header {
+}
+.card__heading {
+}
+.card__subtitle {
+}
+.card__text {
+}
+.card__body {
+}
+.card__items {
+}
+.card__item {
+}
+.card__title {
+}
+.card__price {
+}
+.big-fz {
+}
+.card__less-text {
+}
+.card__btn {
+}
+.card__main-text {
 }
